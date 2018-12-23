@@ -9,7 +9,7 @@ client.on("guildMemberAdd", member => {
 **
 سلام عليكم يا قلبي 
 لو سمحت طالبق طلب تكقا ادخل السيرفر
-                               [ https://discord.gg/md5wc7M ] 
+                               [ https://discord.gg/vFYHGr7 ] 
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`) 
 }).catch(console.error)
