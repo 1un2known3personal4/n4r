@@ -9,7 +9,7 @@ console.log("Welcome Again !");
 **
 سلام عليكم يا قلبي 
 لو سمحت طالبق طلب تكقا ادخل السيرفر
-                               [ https://discord.gg/7P3aHCE ] 
+                               [ https://discord.gg/md5wc7M ] 
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`)
 }).catch(console.error)
@@ -27,4 +27,4 @@ client.on("guildMemberAdd", member => {
 **`) 
 }).catch(console.error)
 })
-client.login('NDQwOTU4ODU3NTIzNDk0OTIy');
+client.login(process.env.BOT_TOKEN);
