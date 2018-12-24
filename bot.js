@@ -8,7 +8,7 @@ client.on("guildMemberAdd", member => {
   return channel.send(` 
 **
 سلام عليكم يا قلبي 
-لو سمحت طالبق طلب تكقا ادخل السيرفر
+:new_moon_with_face: :two_hearts:  لو سمحت طالبك طلب تكقا ادخل السيرفر
                                [ https://discord.gg/vFYHGr7 ] 
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`) 
